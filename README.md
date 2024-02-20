@@ -9,8 +9,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/P1shi/PWeb-Plus/total) ![Contributors](https://img.shields.io/github/contributors/P1shi/PWeb-Plus?color=dark-green) ![Issues](https://img.shields.io/github/issues/P1shi/PWeb-Plus) ![License](https://img.shields.io/github/license/P1shi/PWeb-Plus) 
-
 ## About The Project :
 
 ![Screen Shot](src/img/img2.png

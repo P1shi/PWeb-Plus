@@ -11,14 +11,15 @@
 
 ![Downloads](https://img.shields.io/github/downloads/P1shi/PWeb-Plus/total) ![Contributors](https://img.shields.io/github/contributors/P1shi/PWeb-Plus?color=dark-green) ![Issues](https://img.shields.io/github/issues/P1shi/PWeb-Plus) ![License](https://img.shields.io/github/license/P1shi/PWeb-Plus) 
 
-## About The Project
+## About The Project :
 
 ![Screen Shot](src/img/img2.png
 )
 
-PWeb+ is a Reworked & Better version of PWeb with Better UI & UX and its so simple to work with it.
 
-It has a normal & good speed and i will update it when the repo gets more starts... for example i will update it at 16 stars 🌟
+PWeb+ is a Reworked & Better version of [PWeb](https://github.com/P1shi/PWeb) with Better UI & UX and its so simple to work with it.
+
+It has a normal & good speed and i will update it when the repo gets more starts... for example **i will update it at 16 stars** 🌟
 
 ## Getting Started
 

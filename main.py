@@ -108,9 +108,10 @@ def main():
     # Set window title and clear screen based on the platform
     if platform.system() == "Windows":
         os.system("title PWeb - Made by P1shi")
-        os.system("cls")
     else:
         System.Title("PWeb - Made by P1shi")
+
+    System.Clear()
 
     try:
         print(Colorate.Vertical(Colors.red_to_yellow, Center.XCenter(banner), 2))

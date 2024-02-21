@@ -12,3 +12,4 @@ start /wait %PYTHON_EXE% /quiet /passive InstallAllUsers=0 PrependPath=1 Include
 
 del %PYTHON_EXE%
 
+

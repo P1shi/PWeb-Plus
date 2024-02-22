@@ -51,7 +51,23 @@ start run.bat
 
 5. Finnaly Fill the Use Proxy Input & Enjoy 🪐
 
+## Updates
 
+you can show your support by starring the project. Upon reaching specific milestones, marked by the number of stars achieved, new updates will be released. The progress is outlined as follows:
+
+| ⭐ | # |
+| --- | --- |
+| 16 | ❌ |
+| 22 | ❌ |
+| 30 | ❌ |
+| 42 | ❌ |
+| 50 | ❌ |
+| 62 | ❌ |
+| 72 | ❌ |
+| 80 | ❌ |
+| 92 | ❌ |
+| 100 | ❌ |
+| 112 | ❌ |
 
 ## License
 
